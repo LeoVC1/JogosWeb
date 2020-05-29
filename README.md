@@ -1,6 +1,6 @@
 # JogosWeb
 
-[Exercicio HTML](https://LeoVC1.github.io/Nome.html)
+[Exercicio HTML](https://LeoVC1.github.io/Leo.html)
 
 [Exercicio CSS](https://LeoVC1.github.io/JogosWeb.html)
 
