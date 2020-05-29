@@ -1,11 +1,11 @@
 # JogosWeb
 
-[Exercicio HTML](https://LeoVC1.github.io/JogosWeb/Nome.html)
+[Exercicio HTML](https://LeoVC1.github.io/Nome.html)
 
-[Exercicio CSS](https://LeoVC1.github.io/JogosWeb/JogosWeb.html)
+[Exercicio CSS](https://LeoVC1.github.io/JogosWeb.html)
 
-[Exercicio ImagemSVG](https://LeoVC1.github.io/JogosWeb/Bandeiras.html)
+[Exercicio ImagemSVG](https://LeoVC1.github.io/Bandeiras.html)
 
-[Exercicio Interatividade](https://LeoVC1.github.io/JogosWeb/Interactive.html)
+[Exercicio Interatividade](https://LeoVC1.github.io/Interactive.html)
 
-[Exercicio Animação](https://LeoVC1.github.io/JogosWeb/Animation.html)
+[Exercicio Animação](https://LeoVC1.github.io/Animation.html)
