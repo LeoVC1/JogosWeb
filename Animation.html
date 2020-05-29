@@ -1,0 +1,38 @@
+<html lang="en"
+xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animation</title>
+    
+</head>
+<body>
+    <div style="text-align: center">
+        <svg width="1800"height="800" viewBox="0 0 400 400"
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink"> 
+        <style>
+            .circle{
+                animation: moveCircle 0.5s ease-in infinite alternate;
+            }
+            @keyframes moveCircle{
+                to{
+                    transform: translate(0px, 200px);
+                }
+            }
+            .rect{
+                animation: moveRect 0.2s ease-in-out infinite alternate;
+            }
+            @keyframes moveRect{
+                to{
+                    transform: translateX(20px)
+                }
+            }
+        </style>
+            <circle class="circle" id="circle" cx="80"cy="80"r="40"stroke="green"stroke-width="3" fill="yellow"/>
+            <rect class="rect" x="-200" y="50" rx="10" ry="10" width="150" height="150" style="stroke: green; fill:yellow">
+        </svg>
+        
+    </div>
+</body>
+</html>
